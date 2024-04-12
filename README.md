@@ -7,5 +7,5 @@ This repository contains a LaTeX template for a curriculum vitae (CV). LaTeX is 
 You need to have LaTeX installed on your system. If you don't have it, you can install it using the following command on Fedora:
 
 ```bash
-sudo dnf install texlive-scheme-full && sudo dnf  install pdflatex
+sudo dnf install texlive-scheme-full && sudo dnf install pdflatex
 
